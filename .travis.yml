@@ -3,5 +3,4 @@ solution: Patterns.sln
 mono: none
 dotnet: 2.1.502
 script: 
-  - dotnet restore
   - dotnet run --project Patterns
