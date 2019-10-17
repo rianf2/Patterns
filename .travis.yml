@@ -4,3 +4,6 @@ mono: none
 dotnet: 2.1.502
 script: 
   - dotnet run --project Patterns
+  
+notifications:
+  email: false
